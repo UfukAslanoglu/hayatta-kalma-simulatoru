@@ -1,0 +1,1 @@
+# hayatta_kalma_simulatoru.c
